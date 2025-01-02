@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1735741219 source:r:\hoc_lai_code_c\deviot\deviot_b4_bt7-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
