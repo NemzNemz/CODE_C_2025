@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1735993428 source:r:\hoc_lai_code_c\deviot\ngay1_bt4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+
