@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1737295297 source:r:\hoc_lai_code_c\deviot\ngay4_b2\main.c
+	<stdio.h>
+	<stdlib.h>
+
