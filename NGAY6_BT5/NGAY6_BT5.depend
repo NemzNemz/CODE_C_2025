@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1737649721 source:r:\hoc_lai_code_c\deviot\ngay6_bt5\main.c
+	<stdio.h>
+	<stdlib.h>
+
