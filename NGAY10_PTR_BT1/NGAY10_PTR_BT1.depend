@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1737981895 source:r:\hoc_lai_code_c\deviot\ngay10_ptr_bt1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
